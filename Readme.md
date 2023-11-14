@@ -12,7 +12,10 @@ https://colab.research.google.com/github/maurapintor/unica_mlsec_labs/blob/HEAD/
 * Lab 03:
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/maurapintor/unica_mlsec_labs/blob/HEAD/03_defenses.ipynb)
-  *   * Solution can be found in the MLSec course repository https://github.com/unica-mlsec/mlsec/blob/main/labs/04_defenses.ipynb
+  * Solution can be found in the MLSec course repository https://github.com/unica-mlsec/mlsec/blob/main/labs/04_defenses.ipynb
+* Lab 04:
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maurapintor/unica_mlsec_labs/blob/HEAD/04_gradient_obfuscation_and_adaptive_attacks.ipynb)
+  * Solution can be found in the MLSec course repository https://github.com/unica-mlsec/mlsec/blob/main/labs/05_gradient_obfuscation_and_adaptive_attacks.ipynb  
 
 
 
