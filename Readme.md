@@ -20,6 +20,9 @@ https://colab.research.google.com/github/maurapintor/unica_mlsec_labs/blob/HEAD/
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/maurapintor/unica_mlsec_labs/blob/HEAD/05_poisoning_attacks.ipynb)
   * Solution can be found in the MLSec course repository https://github.com/unica-mlsec/mlsec/blob/main/labs/06_poisoning_attacks.ipynb 
-
+* Lab 06:
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/maurapintor/unica_mlsec_labs/blob/HEAD/06_explainability.ipynb)
+  * Solution can be found in the MLSec course repository https://github.com/unica-mlsec/mlsec/blob/main/labs/07_explainability.ipynb
 
 
